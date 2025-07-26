@@ -1,10 +1,10 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\Carlos Alberto Nin\\Desktop\\Aprendiendo_C-_Desde-0\\Primeros Pasos\\",
+  "WorkspaceRootPath": "C:\\Users\\Carlos Alberto Nin\\Desktop\\Aprendiendo_C-_Desde-0\\Variablees\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{D761B013-E6CE-4D5F-8AB5-C03119B790BD}|Primeros Pasos.csproj|c:\\users\\carlos alberto nin\\desktop\\aprendiendo_c-_desde-0\\primeros pasos\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D761B013-E6CE-4D5F-8AB5-C03119B790BD}|Primeros Pasos.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A3FB51CE-8530-4B9B-8A66-1E064D151F5F}|Variablees.csproj|c:\\users\\carlos alberto nin\\desktop\\aprendiendo_c-_desde-0\\variablees\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A3FB51CE-8530-4B9B-8A66-1E064D151F5F}|Variablees.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -36,13 +36,13 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\Carlos Alberto Nin\\Desktop\\Aprendiendo_C-_Desde-0\\Primeros Pasos\\Program.cs",
+              "DocumentMoniker": "C:\\Users\\Carlos Alberto Nin\\Desktop\\Aprendiendo_C-_Desde-0\\Variablees\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",
-              "ToolTip": "C:\\Users\\Carlos Alberto Nin\\Desktop\\Aprendiendo_C-_Desde-0\\Primeros Pasos\\Program.cs",
+              "ToolTip": "C:\\Users\\Carlos Alberto Nin\\Desktop\\Aprendiendo_C-_Desde-0\\Variablees\\Program.cs",
               "RelativeToolTip": "Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAABwAAAAAAAAAAAAYwDAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-26T15:20:09.109Z",
+              "WhenOpened": "2025-07-26T18:04:06.303Z",
               "EditorCaption": ""
             }
           ]
