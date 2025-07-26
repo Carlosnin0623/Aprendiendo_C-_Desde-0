@@ -1,0 +1,8 @@
+C:\Users\Loteka\Desktop\Aprendiendo_C-_Desde-0\Primeros Pasos\bin\Debug\Primeros Pasos.exe.config
+C:\Users\Loteka\Desktop\Aprendiendo_C-_Desde-0\Primeros Pasos\bin\Debug\Primeros Pasos.exe
+C:\Users\Loteka\Desktop\Aprendiendo_C-_Desde-0\Primeros Pasos\bin\Debug\Primeros Pasos.pdb
+C:\Users\Loteka\Desktop\Aprendiendo_C-_Desde-0\Primeros Pasos\obj\Debug\Primeros Pasos.csproj.AssemblyReference.cache
+C:\Users\Loteka\Desktop\Aprendiendo_C-_Desde-0\Primeros Pasos\obj\Debug\Primeros Pasos.csproj.CoreCompileInputs.cache
+C:\Users\Loteka\Desktop\Aprendiendo_C-_Desde-0\Primeros Pasos\obj\Debug\Primeros Pasos.exe
+C:\Users\Loteka\Desktop\Aprendiendo_C-_Desde-0\Primeros Pasos\obj\Debug\Primeros Pasos.pdb
+C:\Users\Loteka\Desktop\Aprendiendo_C-_Desde-0\Primeros Pasos\obj\Debug\Primeros Pasos.exe.config
