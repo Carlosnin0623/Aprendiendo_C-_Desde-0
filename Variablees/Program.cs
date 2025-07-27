@@ -46,12 +46,19 @@ namespace Variablees // namespace propio
      *  
      */
 
-
     internal class Program // Clase 
     {
         static void Main(string[] args)
         {
+            // Los primero es declarar el tipo de variable antes del nombre //
 
+            string nombre = "Carlos Alberto";
+            short edad = 28;
+            float estatura = 1.80f;
+            bool lindo = true;
+
+            Console.WriteLine("Mi nombre es {0} y tengo {1} años de edad, mi estatura es {2}, soy lindo {3}", nombre, edad, estatura, lindo);
+            Console.ReadKey();
         }
     }
 }

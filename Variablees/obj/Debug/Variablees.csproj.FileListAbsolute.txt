@@ -1,0 +1,7 @@
+C:\Users\Carlos Alberto Nin\Desktop\Aprendiendo_C-_Desde-0\Variablees\bin\Debug\Variablees.exe.config
+C:\Users\Carlos Alberto Nin\Desktop\Aprendiendo_C-_Desde-0\Variablees\bin\Debug\Variablees.exe
+C:\Users\Carlos Alberto Nin\Desktop\Aprendiendo_C-_Desde-0\Variablees\bin\Debug\Variablees.pdb
+C:\Users\Carlos Alberto Nin\Desktop\Aprendiendo_C-_Desde-0\Variablees\obj\Debug\Variablees.csproj.AssemblyReference.cache
+C:\Users\Carlos Alberto Nin\Desktop\Aprendiendo_C-_Desde-0\Variablees\obj\Debug\Variablees.csproj.CoreCompileInputs.cache
+C:\Users\Carlos Alberto Nin\Desktop\Aprendiendo_C-_Desde-0\Variablees\obj\Debug\Variablees.exe
+C:\Users\Carlos Alberto Nin\Desktop\Aprendiendo_C-_Desde-0\Variablees\obj\Debug\Variablees.pdb
