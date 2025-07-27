@@ -1,0 +1,7 @@
+C:\Users\Carlos Alberto Nin\Desktop\Aprendiendo_C-_Desde-0\Operadores_Aritmeticos\bin\Debug\Operadores_Aritmeticos.exe.config
+C:\Users\Carlos Alberto Nin\Desktop\Aprendiendo_C-_Desde-0\Operadores_Aritmeticos\bin\Debug\Operadores_Aritmeticos.exe
+C:\Users\Carlos Alberto Nin\Desktop\Aprendiendo_C-_Desde-0\Operadores_Aritmeticos\bin\Debug\Operadores_Aritmeticos.pdb
+C:\Users\Carlos Alberto Nin\Desktop\Aprendiendo_C-_Desde-0\Operadores_Aritmeticos\obj\Debug\Operadores_Aritmeticos.csproj.AssemblyReference.cache
+C:\Users\Carlos Alberto Nin\Desktop\Aprendiendo_C-_Desde-0\Operadores_Aritmeticos\obj\Debug\Operadores_Aritmeticos.csproj.CoreCompileInputs.cache
+C:\Users\Carlos Alberto Nin\Desktop\Aprendiendo_C-_Desde-0\Operadores_Aritmeticos\obj\Debug\Operadores_Aritmeticos.exe
+C:\Users\Carlos Alberto Nin\Desktop\Aprendiendo_C-_Desde-0\Operadores_Aritmeticos\obj\Debug\Operadores_Aritmeticos.pdb
