@@ -54,10 +54,13 @@ namespace Variablees // namespace propio
 
             string nombre = "Carlos Alberto";
             short edad = 28;
-            float estatura = 1.80f;
+            float estatura = 1.80f; // Debemos ponder la letra f al final para indicarle a c# que es un float */
             bool lindo = true;
+            decimal numero = 1.5m; // Debemos poner la letra m al final para indicarle a c# que es un decimal //
+            double numero2 = 2.5d; // Debemos poner la letra d al final para indicarle a c# que es un double //
 
-            Console.WriteLine("Mi nombre es {0} y tengo {1} años de edad, mi estatura es {2}, soy lindo {3}", nombre, edad, estatura, lindo);
+            Console.WriteLine("Mi nombre es {0} y tengo {1} años de edad, mi estatura es {2}, soy lindo {3}, ", nombre, edad, estatura, lindo);
+            Console.WriteLine("Tengo este número {0} y tengo este tambien {1}", numero, numero2);
             Console.ReadKey();
         }
     }
