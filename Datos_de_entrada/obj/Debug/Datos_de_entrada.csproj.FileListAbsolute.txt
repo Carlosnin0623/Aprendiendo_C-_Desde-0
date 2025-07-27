@@ -1,0 +1,7 @@
+C:\Users\Carlos Alberto Nin\Desktop\Aprendiendo_C-_Desde-0\Datos_de_entrada\bin\Debug\Datos_de_entrada.exe.config
+C:\Users\Carlos Alberto Nin\Desktop\Aprendiendo_C-_Desde-0\Datos_de_entrada\bin\Debug\Datos_de_entrada.exe
+C:\Users\Carlos Alberto Nin\Desktop\Aprendiendo_C-_Desde-0\Datos_de_entrada\bin\Debug\Datos_de_entrada.pdb
+C:\Users\Carlos Alberto Nin\Desktop\Aprendiendo_C-_Desde-0\Datos_de_entrada\obj\Debug\Datos_de_entrada.csproj.AssemblyReference.cache
+C:\Users\Carlos Alberto Nin\Desktop\Aprendiendo_C-_Desde-0\Datos_de_entrada\obj\Debug\Datos_de_entrada.csproj.CoreCompileInputs.cache
+C:\Users\Carlos Alberto Nin\Desktop\Aprendiendo_C-_Desde-0\Datos_de_entrada\obj\Debug\Datos_de_entrada.exe
+C:\Users\Carlos Alberto Nin\Desktop\Aprendiendo_C-_Desde-0\Datos_de_entrada\obj\Debug\Datos_de_entrada.pdb
