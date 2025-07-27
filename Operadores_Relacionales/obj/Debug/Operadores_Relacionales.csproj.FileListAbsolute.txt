@@ -1,0 +1,7 @@
+C:\Users\Carlos Alberto Nin\Desktop\Aprendiendo_C-_Desde-0\Operadores_Relacionales\bin\Debug\Operadores_Relacionales.exe.config
+C:\Users\Carlos Alberto Nin\Desktop\Aprendiendo_C-_Desde-0\Operadores_Relacionales\bin\Debug\Operadores_Relacionales.exe
+C:\Users\Carlos Alberto Nin\Desktop\Aprendiendo_C-_Desde-0\Operadores_Relacionales\bin\Debug\Operadores_Relacionales.pdb
+C:\Users\Carlos Alberto Nin\Desktop\Aprendiendo_C-_Desde-0\Operadores_Relacionales\obj\Debug\Operadores_Relacionales.csproj.AssemblyReference.cache
+C:\Users\Carlos Alberto Nin\Desktop\Aprendiendo_C-_Desde-0\Operadores_Relacionales\obj\Debug\Operadores_Relacionales.csproj.CoreCompileInputs.cache
+C:\Users\Carlos Alberto Nin\Desktop\Aprendiendo_C-_Desde-0\Operadores_Relacionales\obj\Debug\Operadores_Relacionales.exe
+C:\Users\Carlos Alberto Nin\Desktop\Aprendiendo_C-_Desde-0\Operadores_Relacionales\obj\Debug\Operadores_Relacionales.pdb
