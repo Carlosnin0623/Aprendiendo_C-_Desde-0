@@ -1,0 +1,7 @@
+C:\Users\Carlos Alberto Nin\Desktop\Aprendiendo_C-_Desde-0\Estrucura Selectiva\bin\Debug\Estrucura Selectiva.exe.config
+C:\Users\Carlos Alberto Nin\Desktop\Aprendiendo_C-_Desde-0\Estrucura Selectiva\bin\Debug\Estrucura Selectiva.exe
+C:\Users\Carlos Alberto Nin\Desktop\Aprendiendo_C-_Desde-0\Estrucura Selectiva\bin\Debug\Estrucura Selectiva.pdb
+C:\Users\Carlos Alberto Nin\Desktop\Aprendiendo_C-_Desde-0\Estrucura Selectiva\obj\Debug\Estrucura Selectiva.csproj.AssemblyReference.cache
+C:\Users\Carlos Alberto Nin\Desktop\Aprendiendo_C-_Desde-0\Estrucura Selectiva\obj\Debug\Estrucura Selectiva.csproj.CoreCompileInputs.cache
+C:\Users\Carlos Alberto Nin\Desktop\Aprendiendo_C-_Desde-0\Estrucura Selectiva\obj\Debug\Estrucura Selectiva.exe
+C:\Users\Carlos Alberto Nin\Desktop\Aprendiendo_C-_Desde-0\Estrucura Selectiva\obj\Debug\Estrucura Selectiva.pdb
