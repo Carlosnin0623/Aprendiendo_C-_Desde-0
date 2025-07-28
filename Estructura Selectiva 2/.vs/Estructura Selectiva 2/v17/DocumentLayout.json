@@ -1,10 +1,10 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\Carlos Alberto Nin\\Desktop\\Aprendiendo_C-_Desde-0\\Operadores_Relacionales\\",
+  "WorkspaceRootPath": "C:\\Users\\Loteka\\Desktop\\Aprendiendo_C-_Desde-0\\Estructura Selectiva 2\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{599500C3-25C5-401F-B8B2-633ECDF9EB1C}|Operadores_Relacionales.csproj|c:\\users\\carlos alberto nin\\desktop\\aprendiendo_c-_desde-0\\operadores_relacionales\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{599500C3-25C5-401F-B8B2-633ECDF9EB1C}|Operadores_Relacionales.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A39916C2-1057-49AE-AD39-1E9B56E8E21D}|Estructura Selectiva 2.csproj|c:\\users\\loteka\\desktop\\aprendiendo_c-_desde-0\\estructura selectiva 2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A39916C2-1057-49AE-AD39-1E9B56E8E21D}|Estructura Selectiva 2.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -36,13 +36,13 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\Carlos Alberto Nin\\Desktop\\Aprendiendo_C-_Desde-0\\Operadores_Relacionales\\Program.cs",
+              "DocumentMoniker": "C:\\Users\\Loteka\\Desktop\\Aprendiendo_C-_Desde-0\\Estructura Selectiva 2\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",
-              "ToolTip": "C:\\Users\\Carlos Alberto Nin\\Desktop\\Aprendiendo_C-_Desde-0\\Operadores_Relacionales\\Program.cs",
+              "ToolTip": "C:\\Users\\Loteka\\Desktop\\Aprendiendo_C-_Desde-0\\Estructura Selectiva 2\\Program.cs",
               "RelativeToolTip": "Program.cs",
-              "ViewState": "AgIAAB8AAAAAAAAAAAAowDcAAAABAAAAAAAAAA==",
+              "ViewState": "AgIAADQAAAAAAAAAAAAgwFUAAAA2AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-27T17:43:19.454Z",
+              "WhenOpened": "2025-07-28T18:09:25.817Z",
               "EditorCaption": ""
             }
           ]

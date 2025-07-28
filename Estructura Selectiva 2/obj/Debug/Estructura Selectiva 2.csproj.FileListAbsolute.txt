@@ -1,0 +1,8 @@
+C:\Users\Loteka\Desktop\Aprendiendo_C-_Desde-0\Estructura Selectiva 2\bin\Debug\Estructura Selectiva 2.exe.config
+C:\Users\Loteka\Desktop\Aprendiendo_C-_Desde-0\Estructura Selectiva 2\bin\Debug\Estructura Selectiva 2.exe
+C:\Users\Loteka\Desktop\Aprendiendo_C-_Desde-0\Estructura Selectiva 2\bin\Debug\Estructura Selectiva 2.pdb
+C:\Users\Loteka\Desktop\Aprendiendo_C-_Desde-0\Estructura Selectiva 2\obj\Debug\Estructura Selectiva 2.csproj.AssemblyReference.cache
+C:\Users\Loteka\Desktop\Aprendiendo_C-_Desde-0\Estructura Selectiva 2\obj\Debug\Estructura Selectiva 2.csproj.CoreCompileInputs.cache
+C:\Users\Loteka\Desktop\Aprendiendo_C-_Desde-0\Estructura Selectiva 2\obj\Debug\Estructura Selectiva 2.exe
+C:\Users\Loteka\Desktop\Aprendiendo_C-_Desde-0\Estructura Selectiva 2\obj\Debug\Estructura Selectiva 2.pdb
+C:\Users\Loteka\Desktop\Aprendiendo_C-_Desde-0\Estructura Selectiva 2\obj\Debug\Estructura Selectiva 2.exe.config
