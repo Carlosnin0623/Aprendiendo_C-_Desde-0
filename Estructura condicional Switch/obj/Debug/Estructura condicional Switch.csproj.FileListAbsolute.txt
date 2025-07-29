@@ -1,0 +1,8 @@
+C:\Users\Loteka\Desktop\Aprendiendo_C-_Desde-0\Estructura condicional Switch\bin\Debug\Estructura condicional Switch.exe.config
+C:\Users\Loteka\Desktop\Aprendiendo_C-_Desde-0\Estructura condicional Switch\bin\Debug\Estructura condicional Switch.exe
+C:\Users\Loteka\Desktop\Aprendiendo_C-_Desde-0\Estructura condicional Switch\bin\Debug\Estructura condicional Switch.pdb
+C:\Users\Loteka\Desktop\Aprendiendo_C-_Desde-0\Estructura condicional Switch\obj\Debug\Estructura condicional Switch.csproj.AssemblyReference.cache
+C:\Users\Loteka\Desktop\Aprendiendo_C-_Desde-0\Estructura condicional Switch\obj\Debug\Estructura condicional Switch.csproj.CoreCompileInputs.cache
+C:\Users\Loteka\Desktop\Aprendiendo_C-_Desde-0\Estructura condicional Switch\obj\Debug\Estructura condicional Switch.exe
+C:\Users\Loteka\Desktop\Aprendiendo_C-_Desde-0\Estructura condicional Switch\obj\Debug\Estructura condicional Switch.pdb
+C:\Users\Loteka\Desktop\Aprendiendo_C-_Desde-0\Estructura condicional Switch\obj\Debug\Estructura condicional Switch.exe.config
