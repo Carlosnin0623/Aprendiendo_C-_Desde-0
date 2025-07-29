@@ -1,0 +1,8 @@
+C:\Users\Loteka\Desktop\Aprendiendo_C-_Desde-0\Expresiones Logicas 2\bin\Debug\Expresiones Logicas 2.exe.config
+C:\Users\Loteka\Desktop\Aprendiendo_C-_Desde-0\Expresiones Logicas 2\bin\Debug\Expresiones Logicas 2.exe
+C:\Users\Loteka\Desktop\Aprendiendo_C-_Desde-0\Expresiones Logicas 2\bin\Debug\Expresiones Logicas 2.pdb
+C:\Users\Loteka\Desktop\Aprendiendo_C-_Desde-0\Expresiones Logicas 2\obj\Debug\Expresiones Logicas 2.csproj.AssemblyReference.cache
+C:\Users\Loteka\Desktop\Aprendiendo_C-_Desde-0\Expresiones Logicas 2\obj\Debug\Expresiones Logicas 2.csproj.CoreCompileInputs.cache
+C:\Users\Loteka\Desktop\Aprendiendo_C-_Desde-0\Expresiones Logicas 2\obj\Debug\Expresiones Logicas 2.exe
+C:\Users\Loteka\Desktop\Aprendiendo_C-_Desde-0\Expresiones Logicas 2\obj\Debug\Expresiones Logicas 2.pdb
+C:\Users\Loteka\Desktop\Aprendiendo_C-_Desde-0\Expresiones Logicas 2\obj\Debug\Expresiones Logicas 2.exe.config
