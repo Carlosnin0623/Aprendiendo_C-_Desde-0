@@ -1,0 +1,8 @@
+C:\Users\Loteka\Desktop\Aprendiendo_C-_Desde-0\Try_Catch\bin\Debug\Try_Catch.exe.config
+C:\Users\Loteka\Desktop\Aprendiendo_C-_Desde-0\Try_Catch\bin\Debug\Try_Catch.exe
+C:\Users\Loteka\Desktop\Aprendiendo_C-_Desde-0\Try_Catch\bin\Debug\Try_Catch.pdb
+C:\Users\Loteka\Desktop\Aprendiendo_C-_Desde-0\Try_Catch\obj\Debug\Try_Catch.csproj.AssemblyReference.cache
+C:\Users\Loteka\Desktop\Aprendiendo_C-_Desde-0\Try_Catch\obj\Debug\Try_Catch.csproj.CoreCompileInputs.cache
+C:\Users\Loteka\Desktop\Aprendiendo_C-_Desde-0\Try_Catch\obj\Debug\Try_Catch.exe
+C:\Users\Loteka\Desktop\Aprendiendo_C-_Desde-0\Try_Catch\obj\Debug\Try_Catch.pdb
+C:\Users\Loteka\Desktop\Aprendiendo_C-_Desde-0\Try_Catch\obj\Debug\Try_Catch.exe.config
