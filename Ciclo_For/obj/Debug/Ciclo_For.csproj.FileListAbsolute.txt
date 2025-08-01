@@ -1,0 +1,8 @@
+C:\Users\Loteka\Desktop\Aprendiendo_C-_Desde-0\Ciclo_For\bin\Debug\Ciclo_For.exe.config
+C:\Users\Loteka\Desktop\Aprendiendo_C-_Desde-0\Ciclo_For\bin\Debug\Ciclo_For.exe
+C:\Users\Loteka\Desktop\Aprendiendo_C-_Desde-0\Ciclo_For\bin\Debug\Ciclo_For.pdb
+C:\Users\Loteka\Desktop\Aprendiendo_C-_Desde-0\Ciclo_For\obj\Debug\Ciclo_For.csproj.AssemblyReference.cache
+C:\Users\Loteka\Desktop\Aprendiendo_C-_Desde-0\Ciclo_For\obj\Debug\Ciclo_For.csproj.CoreCompileInputs.cache
+C:\Users\Loteka\Desktop\Aprendiendo_C-_Desde-0\Ciclo_For\obj\Debug\Ciclo_For.exe
+C:\Users\Loteka\Desktop\Aprendiendo_C-_Desde-0\Ciclo_For\obj\Debug\Ciclo_For.pdb
+C:\Users\Loteka\Desktop\Aprendiendo_C-_Desde-0\Ciclo_For\obj\Debug\Ciclo_For.exe.config

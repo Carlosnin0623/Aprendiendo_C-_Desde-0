@@ -1,0 +1,8 @@
+C:\Users\Loteka\Desktop\Aprendiendo_C-_Desde-0\Practica\bin\Debug\Practica.exe.config
+C:\Users\Loteka\Desktop\Aprendiendo_C-_Desde-0\Practica\bin\Debug\Practica.exe
+C:\Users\Loteka\Desktop\Aprendiendo_C-_Desde-0\Practica\bin\Debug\Practica.pdb
+C:\Users\Loteka\Desktop\Aprendiendo_C-_Desde-0\Practica\obj\Debug\Practica.csproj.AssemblyReference.cache
+C:\Users\Loteka\Desktop\Aprendiendo_C-_Desde-0\Practica\obj\Debug\Practica.csproj.CoreCompileInputs.cache
+C:\Users\Loteka\Desktop\Aprendiendo_C-_Desde-0\Practica\obj\Debug\Practica.exe
+C:\Users\Loteka\Desktop\Aprendiendo_C-_Desde-0\Practica\obj\Debug\Practica.pdb
+C:\Users\Loteka\Desktop\Aprendiendo_C-_Desde-0\Practica\obj\Debug\Practica.exe.config
