@@ -1,0 +1,8 @@
+C:\Users\Carlos Alberto Nin\Desktop\Aprendiendo_C-_Desde-0\20-Bloque_de_ejericios\bin\Debug\20-Bloque_de_ejericios.exe.config
+C:\Users\Carlos Alberto Nin\Desktop\Aprendiendo_C-_Desde-0\20-Bloque_de_ejericios\bin\Debug\20-Bloque_de_ejericios.exe
+C:\Users\Carlos Alberto Nin\Desktop\Aprendiendo_C-_Desde-0\20-Bloque_de_ejericios\bin\Debug\20-Bloque_de_ejericios.pdb
+C:\Users\Carlos Alberto Nin\Desktop\Aprendiendo_C-_Desde-0\20-Bloque_de_ejericios\obj\Debug\20-Bloque_de_ejericios.csproj.AssemblyReference.cache
+C:\Users\Carlos Alberto Nin\Desktop\Aprendiendo_C-_Desde-0\20-Bloque_de_ejericios\obj\Debug\20-Bloque_de_ejericios.csproj.CoreCompileInputs.cache
+C:\Users\Carlos Alberto Nin\Desktop\Aprendiendo_C-_Desde-0\20-Bloque_de_ejericios\obj\Debug\20-Bloque_de_ejericios.exe
+C:\Users\Carlos Alberto Nin\Desktop\Aprendiendo_C-_Desde-0\20-Bloque_de_ejericios\obj\Debug\20-Bloque_de_ejericios.pdb
+C:\Users\Carlos Alberto Nin\Desktop\Aprendiendo_C-_Desde-0\20-Bloque_de_ejericios\obj\Debug\20-Bloque_de_ejericios.exe.config
