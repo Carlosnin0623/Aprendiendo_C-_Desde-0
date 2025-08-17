@@ -12,30 +12,18 @@ namespace _20_Bloque_de_ejericios
     {
         static void Main(string[] args)
         {
-            /*
-             * Escribe un programa que tome un número entero y sume todos sus dígitos.
-             */
+            string saludo = "Hola mundo!";
+            string[] palabra = new string[12];
+           
+           
 
-            int numero;
-            string resultado;
-            int resultado1 = 0;
-            string texto;
-
-            Console.WriteLine("Ingrese el número");
-            numero = Convert.ToInt32(Console.ReadLine());
-
-            texto = Convert.ToString(numero);
-
-            foreach(char letra in texto)
+            foreach(char letra in saludo)
             {
-               resultado = Convert.ToString(letra);
-               resultado1 += Convert.ToInt32(resultado);
+                Console.WriteLine(letra);
             }
 
-            Console.WriteLine("El resultado es {0}", resultado1);
-
-            Console.ReadKey();
-
+            Console.ReadLine();
+ 
         }
     }
 }
