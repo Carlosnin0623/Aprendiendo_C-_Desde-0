@@ -1,0 +1,8 @@
+C:\Users\Loteka\Desktop\Aprendiendo_C-_Desde-0\22_Calculadora\bin\Debug\22_Calculadora.exe.config
+C:\Users\Loteka\Desktop\Aprendiendo_C-_Desde-0\22_Calculadora\bin\Debug\22_Calculadora.exe
+C:\Users\Loteka\Desktop\Aprendiendo_C-_Desde-0\22_Calculadora\bin\Debug\22_Calculadora.pdb
+C:\Users\Loteka\Desktop\Aprendiendo_C-_Desde-0\22_Calculadora\obj\Debug\22_Calculadora.csproj.AssemblyReference.cache
+C:\Users\Loteka\Desktop\Aprendiendo_C-_Desde-0\22_Calculadora\obj\Debug\22_Calculadora.csproj.CoreCompileInputs.cache
+C:\Users\Loteka\Desktop\Aprendiendo_C-_Desde-0\22_Calculadora\obj\Debug\22_Calculadora.exe
+C:\Users\Loteka\Desktop\Aprendiendo_C-_Desde-0\22_Calculadora\obj\Debug\22_Calculadora.pdb
+C:\Users\Loteka\Desktop\Aprendiendo_C-_Desde-0\22_Calculadora\obj\Debug\22_Calculadora.exe.config
