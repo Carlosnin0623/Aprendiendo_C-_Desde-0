@@ -55,17 +55,31 @@ namespace _21_Funciones_y_metodos
             {
                 float resultado = 0f;
 
-                resultado = Resta();
+                resultado = Resta(); 
 
                 Console.WriteLine("El resultado de la resta es: {0}", resultado);
             }
             if (opcion == 3)
             {
+                float a, b;
+                Console.WriteLine("Ingrese el primero número");
+                a = Convert.ToSingle(Console.ReadLine());
+                Console.WriteLine("Ingrese el segundo número");
+                b = Convert.ToSingle(Console.ReadLine());
 
+                Multiplicacion(a, b); 
             }
             if (opcion == 4)
             {
+                float a, b, resultado;
+                Console.WriteLine("Ingrese el primero número");
+                a = Convert.ToSingle(Console.ReadLine());
+                Console.WriteLine("Ingrese el segundo número");
+                b = Convert.ToSingle(Console.ReadLine());
 
+                resultado = Division(a, b); 
+
+                Console.WriteLine("El resultado de la división es: {0}", resultado);
             }
 
 
@@ -75,10 +89,10 @@ namespace _21_Funciones_y_metodos
         }
 
 
-        static void Suma() // 1 - Los que ejecutan solo codigo
+        static void Suma() // Los que ejecutan solo codigo
         {
             float a, b;  // Variables locales
-            float r = 0f;
+            float r = 0.0f;
             
             Console.WriteLine("Ingrese el primero número");
             a = Convert.ToSingle(Console.ReadLine());
@@ -89,10 +103,10 @@ namespace _21_Funciones_y_metodos
 
         }
 
-        static float Resta() // 3 - Los que regresan valores
+        static float Resta() // Los que solo devuelven informacion y ejecutan el codigo
         {
             float a, b;  // Variables locales
-            float r = 0f;
+            float r = 0.0f;
 
             Console.WriteLine("Ingrese el primero número");
             a = Convert.ToSingle(Console.ReadLine());
@@ -102,6 +116,23 @@ namespace _21_Funciones_y_metodos
           
             return r; // Con la función return devolvermos el valor
 
+        }
+
+        static void Multiplicacion(float a, float b) {  // Los que reciben valores pero no retornan informacion
+         
+            float resultado = 0.0f;
+            resultado = a * b;
+
+            Console.WriteLine("El resultado de la multiplicación es: {0}", resultado);
+        }
+
+        static float Division(float a, float b) //  Los que reciben valores o parametros pero tambien retornan información
+        {
+
+            float resultado = 0.0f;
+            resultado = a / b;
+
+            return resultado; // Con la función return devolvermos el valor
         }
     }
 }

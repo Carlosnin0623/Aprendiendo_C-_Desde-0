@@ -1,0 +1,8 @@
+C:\Users\Loteka\Desktop\Aprendiendo_C-_Desde-0\21_Funciones_y_metodos\bin\Debug\21_Funciones_y_metodos.exe.config
+C:\Users\Loteka\Desktop\Aprendiendo_C-_Desde-0\21_Funciones_y_metodos\bin\Debug\21_Funciones_y_metodos.exe
+C:\Users\Loteka\Desktop\Aprendiendo_C-_Desde-0\21_Funciones_y_metodos\bin\Debug\21_Funciones_y_metodos.pdb
+C:\Users\Loteka\Desktop\Aprendiendo_C-_Desde-0\21_Funciones_y_metodos\obj\Debug\21_Funciones_y_metodos.csproj.AssemblyReference.cache
+C:\Users\Loteka\Desktop\Aprendiendo_C-_Desde-0\21_Funciones_y_metodos\obj\Debug\21_Funciones_y_metodos.csproj.CoreCompileInputs.cache
+C:\Users\Loteka\Desktop\Aprendiendo_C-_Desde-0\21_Funciones_y_metodos\obj\Debug\21_Funciones_y_metodos.exe
+C:\Users\Loteka\Desktop\Aprendiendo_C-_Desde-0\21_Funciones_y_metodos\obj\Debug\21_Funciones_y_metodos.pdb
+C:\Users\Loteka\Desktop\Aprendiendo_C-_Desde-0\21_Funciones_y_metodos\obj\Debug\21_Funciones_y_metodos.exe.config
