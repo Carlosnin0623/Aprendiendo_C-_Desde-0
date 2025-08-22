@@ -1,0 +1,8 @@
+C:\Users\Loteka\Desktop\Aprendiendo_C-_Desde-0\24-Potencia\bin\Debug\24-Potencia.exe.config
+C:\Users\Loteka\Desktop\Aprendiendo_C-_Desde-0\24-Potencia\bin\Debug\24-Potencia.exe
+C:\Users\Loteka\Desktop\Aprendiendo_C-_Desde-0\24-Potencia\bin\Debug\24-Potencia.pdb
+C:\Users\Loteka\Desktop\Aprendiendo_C-_Desde-0\24-Potencia\obj\Debug\24-Potencia.csproj.AssemblyReference.cache
+C:\Users\Loteka\Desktop\Aprendiendo_C-_Desde-0\24-Potencia\obj\Debug\24-Potencia.csproj.CoreCompileInputs.cache
+C:\Users\Loteka\Desktop\Aprendiendo_C-_Desde-0\24-Potencia\obj\Debug\24-Potencia.exe
+C:\Users\Loteka\Desktop\Aprendiendo_C-_Desde-0\24-Potencia\obj\Debug\24-Potencia.pdb
+C:\Users\Loteka\Desktop\Aprendiendo_C-_Desde-0\24-Potencia\obj\Debug\24-Potencia.exe.config
