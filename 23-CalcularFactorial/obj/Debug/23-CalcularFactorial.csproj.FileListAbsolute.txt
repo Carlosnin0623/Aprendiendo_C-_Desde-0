@@ -1,0 +1,8 @@
+C:\Users\Loteka\Desktop\Aprendiendo_C-_Desde-0\23-CalcularFactorial\bin\Debug\23-CalcularFactorial.exe.config
+C:\Users\Loteka\Desktop\Aprendiendo_C-_Desde-0\23-CalcularFactorial\bin\Debug\23-CalcularFactorial.exe
+C:\Users\Loteka\Desktop\Aprendiendo_C-_Desde-0\23-CalcularFactorial\bin\Debug\23-CalcularFactorial.pdb
+C:\Users\Loteka\Desktop\Aprendiendo_C-_Desde-0\23-CalcularFactorial\obj\Debug\23-CalcularFactorial.csproj.AssemblyReference.cache
+C:\Users\Loteka\Desktop\Aprendiendo_C-_Desde-0\23-CalcularFactorial\obj\Debug\23-CalcularFactorial.csproj.CoreCompileInputs.cache
+C:\Users\Loteka\Desktop\Aprendiendo_C-_Desde-0\23-CalcularFactorial\obj\Debug\23-CalcularFactorial.exe
+C:\Users\Loteka\Desktop\Aprendiendo_C-_Desde-0\23-CalcularFactorial\obj\Debug\23-CalcularFactorial.pdb
+C:\Users\Loteka\Desktop\Aprendiendo_C-_Desde-0\23-CalcularFactorial\obj\Debug\23-CalcularFactorial.exe.config
