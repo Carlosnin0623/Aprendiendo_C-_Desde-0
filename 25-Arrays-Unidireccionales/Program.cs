@@ -99,6 +99,11 @@ namespace _25_Arrays_Unidireccionales
             }
 
 
+            Console.WriteLine("El promedio es {0}", promedio);
+            Console.WriteLine("La calificación mínima es {0}", minima);
+            Console.WriteLine("La calificación maxima es {0}", maxima);
+
+            Console.ReadKey();
         }
     }
 }

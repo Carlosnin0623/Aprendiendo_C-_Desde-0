@@ -1,0 +1,7 @@
+C:\Users\Carlos Alberto Nin\Desktop\Aprendiendo_C-_Desde-0\25-Arrays-Unidireccionales\bin\Debug\25-Arrays-Unidireccionales.exe.config
+C:\Users\Carlos Alberto Nin\Desktop\Aprendiendo_C-_Desde-0\25-Arrays-Unidireccionales\bin\Debug\25-Arrays-Unidireccionales.exe
+C:\Users\Carlos Alberto Nin\Desktop\Aprendiendo_C-_Desde-0\25-Arrays-Unidireccionales\bin\Debug\25-Arrays-Unidireccionales.pdb
+C:\Users\Carlos Alberto Nin\Desktop\Aprendiendo_C-_Desde-0\25-Arrays-Unidireccionales\obj\Debug\25-Arrays-Unidireccionales.csproj.AssemblyReference.cache
+C:\Users\Carlos Alberto Nin\Desktop\Aprendiendo_C-_Desde-0\25-Arrays-Unidireccionales\obj\Debug\25-Arrays-Unidireccionales.csproj.CoreCompileInputs.cache
+C:\Users\Carlos Alberto Nin\Desktop\Aprendiendo_C-_Desde-0\25-Arrays-Unidireccionales\obj\Debug\25-Arrays-Unidireccionales.exe
+C:\Users\Carlos Alberto Nin\Desktop\Aprendiendo_C-_Desde-0\25-Arrays-Unidireccionales\obj\Debug\25-Arrays-Unidireccionales.pdb
