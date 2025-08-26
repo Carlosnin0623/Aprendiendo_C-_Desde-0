@@ -1,0 +1,7 @@
+C:\Users\Loteka\Desktop\Aprendiendo_C-_Desde-0\27-Ejercicio-Array-Bidimencional\bin\Debug\27-Ejercicio-Array-Bidimencional.exe.config
+C:\Users\Loteka\Desktop\Aprendiendo_C-_Desde-0\27-Ejercicio-Array-Bidimencional\bin\Debug\27-Ejercicio-Array-Bidimencional.exe
+C:\Users\Loteka\Desktop\Aprendiendo_C-_Desde-0\27-Ejercicio-Array-Bidimencional\bin\Debug\27-Ejercicio-Array-Bidimencional.pdb
+C:\Users\Loteka\Desktop\Aprendiendo_C-_Desde-0\27-Ejercicio-Array-Bidimencional\obj\Debug\27-Ejercicio-Array-Bidimencional.csproj.AssemblyReference.cache
+C:\Users\Loteka\Desktop\Aprendiendo_C-_Desde-0\27-Ejercicio-Array-Bidimencional\obj\Debug\27-Ejercicio-Array-Bidimencional.csproj.CoreCompileInputs.cache
+C:\Users\Loteka\Desktop\Aprendiendo_C-_Desde-0\27-Ejercicio-Array-Bidimencional\obj\Debug\27-Ejercicio-Array-Bidimencional.exe
+C:\Users\Loteka\Desktop\Aprendiendo_C-_Desde-0\27-Ejercicio-Array-Bidimencional\obj\Debug\27-Ejercicio-Array-Bidimencional.pdb
