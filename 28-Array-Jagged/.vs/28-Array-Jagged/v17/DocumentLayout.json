@@ -1,10 +1,10 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\Loteka\\Desktop\\Aprendiendo_C-_Desde-0\\27-Ejercicio-Array-Bidimencional\\",
+  "WorkspaceRootPath": "C:\\Users\\Loteka\\Desktop\\Aprendiendo_C-_Desde-0\\28-Array-Jagged\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{A288AF76-459E-477F-AB42-9C50E1DF710C}|27-Ejercicio-Array-Bidimencional.csproj|c:\\users\\loteka\\desktop\\aprendiendo_c-_desde-0\\27-ejercicio-array-bidimencional\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A288AF76-459E-477F-AB42-9C50E1DF710C}|27-Ejercicio-Array-Bidimencional.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{77AA0DA1-418E-4229-828D-CC4874F65823}|28-Array-Jagged.csproj|c:\\users\\loteka\\desktop\\aprendiendo_c-_desde-0\\28-array-jagged\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{77AA0DA1-418E-4229-828D-CC4874F65823}|28-Array-Jagged.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -36,13 +36,13 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\Loteka\\Desktop\\Aprendiendo_C-_Desde-0\\27-Ejercicio-Array-Bidimencional\\Program.cs",
+              "DocumentMoniker": "C:\\Users\\Loteka\\Desktop\\Aprendiendo_C-_Desde-0\\28-Array-Jagged\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",
-              "ToolTip": "C:\\Users\\Loteka\\Desktop\\Aprendiendo_C-_Desde-0\\27-Ejercicio-Array-Bidimencional\\Program.cs",
+              "ToolTip": "C:\\Users\\Loteka\\Desktop\\Aprendiendo_C-_Desde-0\\28-Array-Jagged\\Program.cs",
               "RelativeToolTip": "Program.cs",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAAABwAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAH4AAAAAAAAAAAAQwJgAAAAeAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-26T19:55:45.926Z",
+              "WhenOpened": "2025-08-27T13:56:35.665Z",
               "EditorCaption": ""
             }
           ]

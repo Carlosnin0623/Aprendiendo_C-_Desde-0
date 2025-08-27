@@ -1,0 +1,7 @@
+C:\Users\Loteka\Desktop\Aprendiendo_C-_Desde-0\28-Array-Jagged\bin\Debug\28-Array-Jagged.exe.config
+C:\Users\Loteka\Desktop\Aprendiendo_C-_Desde-0\28-Array-Jagged\bin\Debug\28-Array-Jagged.exe
+C:\Users\Loteka\Desktop\Aprendiendo_C-_Desde-0\28-Array-Jagged\bin\Debug\28-Array-Jagged.pdb
+C:\Users\Loteka\Desktop\Aprendiendo_C-_Desde-0\28-Array-Jagged\obj\Debug\28-Array-Jagged.csproj.AssemblyReference.cache
+C:\Users\Loteka\Desktop\Aprendiendo_C-_Desde-0\28-Array-Jagged\obj\Debug\28-Array-Jagged.csproj.CoreCompileInputs.cache
+C:\Users\Loteka\Desktop\Aprendiendo_C-_Desde-0\28-Array-Jagged\obj\Debug\28-Array-Jagged.exe
+C:\Users\Loteka\Desktop\Aprendiendo_C-_Desde-0\28-Array-Jagged\obj\Debug\28-Array-Jagged.pdb
