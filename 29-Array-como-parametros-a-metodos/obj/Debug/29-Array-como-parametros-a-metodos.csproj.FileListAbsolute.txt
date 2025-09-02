@@ -1,0 +1,8 @@
+C:\Users\Loteka\Desktop\Aprendiendo_C-_Desde-0\29-Array-como-parametros-a-metodos\bin\Debug\29-Array-como-parametros-a-metodos.exe.config
+C:\Users\Loteka\Desktop\Aprendiendo_C-_Desde-0\29-Array-como-parametros-a-metodos\bin\Debug\29-Array-como-parametros-a-metodos.exe
+C:\Users\Loteka\Desktop\Aprendiendo_C-_Desde-0\29-Array-como-parametros-a-metodos\bin\Debug\29-Array-como-parametros-a-metodos.pdb
+C:\Users\Loteka\Desktop\Aprendiendo_C-_Desde-0\29-Array-como-parametros-a-metodos\obj\Debug\29-Array-como-parametros-a-metodos.csproj.AssemblyReference.cache
+C:\Users\Loteka\Desktop\Aprendiendo_C-_Desde-0\29-Array-como-parametros-a-metodos\obj\Debug\29-Array-como-parametros-a-metodos.csproj.CoreCompileInputs.cache
+C:\Users\Loteka\Desktop\Aprendiendo_C-_Desde-0\29-Array-como-parametros-a-metodos\obj\Debug\29-Array-como-parametros-a-metodos.exe
+C:\Users\Loteka\Desktop\Aprendiendo_C-_Desde-0\29-Array-como-parametros-a-metodos\obj\Debug\29-Array-como-parametros-a-metodos.pdb
+C:\Users\Loteka\Desktop\Aprendiendo_C-_Desde-0\29-Array-como-parametros-a-metodos\obj\Debug\29-Array-como-parametros-a-metodos.exe.config
